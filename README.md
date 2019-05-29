@@ -1,6 +1,7 @@
-:warning: Esse rep é apenas uma cópia do oficial com algumas alterações no código para que se possa manter uam versão estável deste plugin.
+:warning: Esse rep é apenas uma cópia do oficial com algumas alterações no código para que se possa manter uma versão estável deste plugin.
+
 ---
-title: Statusbar
+:title: Statusbar
 description: Control the device status bar.
 ---
 <!---
